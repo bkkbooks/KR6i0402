@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR6i0402/T/v1
+canonical_location: https://kanripo.org/bkk/KR6i0402/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 慈氏菩薩所說大乘緣生稻𦼮喻經
+  identifiers:
+    krp: KR6i0402
+    cbeta: T16n0710
+    cbeta_old_id: T16n0710
+    authorityid: CA0000377
+    json_key: T0710
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T16/T16n0710.xml
+    old_id: T16n0710
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0402_000-T.yaml, hash: 'sha256:cd3d3811de07a3eec4c6592b0d758b979e4033d05c6a6d5a9f64f27d26f03297'}
+  - {seq: 1, filename: KR6i0402_001-T.yaml, hash: 'sha256:fdbb65e13c8df10d90a69507a359a66f52def9f14c30de41b23eb5d13d6f3ce4'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0402_000-T.markers.yaml, hash: 'sha256:bbe38b1a02994bb7e985f353f4194665667af2129d45957124a02ef580e02648'}
+  - {seq: 1, role: markers, filename: assets/KR6i0402_001-T.markers.yaml, hash: 'sha256:4a55e27ba0d5b1f4e7d47fc51a2fdf6dda9735cd2b10ac0e0491c0fbe6804bf2'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0402_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 3358
+  label: '慈氏菩薩所說大乘緣生稻𦼮喻
+
+    經'
+  type: juan
+  level: 1
+hash: sha256:8878ee10c2c2665c2757e4d8beef9ecaa422827d28823afbb5dd3ca4d0df9b0f

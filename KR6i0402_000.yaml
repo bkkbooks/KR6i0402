@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0402/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 慈氏菩薩所說大乘緣生稻𦼮喻經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T16/T16n0710.xml
+    old_id: T16n0710
+hash: sha256:cd3d3811de07a3eec4c6592b0d758b979e4033d05c6a6d5a9f64f27d26f03297
