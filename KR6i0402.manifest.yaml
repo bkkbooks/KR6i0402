@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0402/v1
 canonical_location: https://kanripo.org/bkk/KR6i0402/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 慈氏菩薩所說大乘緣生稻𦼮喻經
   identifiers:
@@ -31,10 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0402_000.yaml, hash: 'sha256:cd3d3811de07a3eec4c6592b0d758b979e4033d05c6a6d5a9f64f27d26f03297'}
-  - {seq: 1, filename: KR6i0402_001.yaml, hash: 'sha256:fdbb65e13c8df10d90a69507a359a66f52def9f14c30de41b23eb5d13d6f3ce4'}
+  - {seq: 1, filename: KR6i0402_001.yaml, hash: 'sha256:7f23172f0459dc0a4a5e023fe7bb243d9cce7eb50ba39ca958a97213be548188'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6i0402_000.markers.yaml, hash: 'sha256:abfab7d52d33cc7533c40a3ff1d14a117b0f8578840ca633803a602e0c1a454f'}
-  - {seq: 1, role: markers, filename: assets/KR6i0402_001.markers.yaml, hash: 'sha256:31bc4e72e0ae257ed7657868f1109b7fd8a0c3c3568580ae2ee01dcfaaa66116'}
+  - {seq: 1, role: markers, filename: assets/KR6i0402_001.markers.yaml, hash: 'sha256:0b3291cefbc3f4c929224ead1b61e023206bbe8552d2de1540270665ae7c4551'}
 table_of_contents:
 - ref:
     seq: 1
@@ -48,4 +48,7 @@ table_of_contents:
     經'
   type: juan
   level: 1
-hash: sha256:63df1438de8e3f5ab97c34dc56f747765cf6e34d2f9f69fd69eb90396ea521e0
+hash: sha256:6bdd96739b8dd785298af3032d73a0e685d2e51e52a860f462fe3735730221cb
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
